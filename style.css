@@ -2,5 +2,36 @@ body {
   background-color: #00008B;
   color:white;
 }
+.pic{
+max-width:200px;
+max-height:200px;
+}
+.pic1{
+max-width:185px;
+max-height:185px;
+}
+.pic:hover{
+      -moz-box-shadow: 0 0 10px #ccc;
+      -webkit-box-shadow: 0 0 10px #ccc;
+      box-shadow: 0 0 10px #ccc;
+}
+
+.pic1:hover{
+      -moz-box-shadow: 0 0 10px #ccc;
+      -webkit-box-shadow: 0 0 10px #ccc;
+      box-shadow: 0 0 10px #ccc;
+}
+.child-div{
+ background-size:100%;
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+}
+
+
+
+
+
 
 /* https://www.rapidtables.com/web/css/css-color.html */
