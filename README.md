@@ -1,2 +1,2 @@
 # YU-GuestSpeakers
-Site to help connect people with the speakers the come to Year Up
+##Website created to help connect students with professionals that come speak at Year Up.
